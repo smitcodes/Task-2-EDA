@@ -45,5 +45,3 @@ Superstore dataset containing sales, profit, discount, region, and category deta
 - Task2_EDA.ipynb
 - superstore_cleaned.csv
 - dashboard.png
-
-
