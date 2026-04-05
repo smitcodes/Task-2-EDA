@@ -46,7 +46,4 @@ Superstore dataset containing sales, profit, discount, region, and category deta
 - superstore_cleaned.csv
 - dashboard.png
 
----
 
-## 🎥 LinkedIn Video
-(Add your LinkedIn video link here)
