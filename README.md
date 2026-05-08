@@ -29,7 +29,7 @@ Superstore dataset containing sales, profit, discount, region, and category deta
 ---
 
 ## 📈 Dashboard
-![Dashboard](EDA_dashboard.jpg)
+![Dashboard](EDA_Dashboard.jpg)
 
 ---
 
